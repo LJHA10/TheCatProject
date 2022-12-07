@@ -6,7 +6,7 @@ package com.mycompany.catproject;
 
 /**
  *
- * @author alexa
+ * @author LuisJ
  */
 public class GatoJava {
     

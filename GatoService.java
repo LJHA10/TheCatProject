@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author alexa
+ * @author LuisJ
  */
 public class GatoService {
 
